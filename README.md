@@ -1,1 +1,1 @@
-# Medium Sitesinin Clone Çalışmaso #
+# Medium Sitesinin Clone Çalışması #
